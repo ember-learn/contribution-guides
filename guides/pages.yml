@@ -5,10 +5,30 @@
     - title: "Guides"
       url: ""
 
-- title: "Getting Started"
-  url: 'getting-started'
+- title: "Introduction"
+  url: 'introduction'
+  pages:
+    - title: "Ember and Open Source"
+      url: "index"
+    - title: "Motivation"
+      url: "motivation"
+
+- title: "Find a Project"
+  url: 'find-a-project'
+  pages:
+    - title: "Project finder"
+      url: "index"
+    - title: "Different Types of Contribution"
+      url: "types-of-contribution"
+    - title: "Start Your Own Project"
+      url: "start-a-new-project"
+
+- title: "Make a Contribution"
+  url: 'make-a-contribution'
   pages:
     - title: "Introduction"
       url: "index"
-    - title: "Editing"
-      url: "editing"
+    - title: "File an Issue"
+      url: "filing-issues"
+    - title: "How to make a code contribution"
+      url: "making-code-contributions"

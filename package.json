@@ -48,6 +48,7 @@
     "eslint-plugin-ember": "^5.2.0",
     "guidemaker": "^1.0.2",
     "guidemaker-default-template": "^0.5.1",
+    "guidemaker-ember-template": "^1.0.0",
     "guidemaker-link-checker": "^1.0.0",
     "guidemaker-toc-checker": "^1.0.0",
     "loader.js": "^4.7.0",
