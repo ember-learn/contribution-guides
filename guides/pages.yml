@@ -30,5 +30,7 @@
       url: "index"
     - title: "File an Issue"
       url: "filing-issues"
+    - title: "How to Git"
+      url: "git-tutorial"
     - title: "How to make a code contribution"
       url: "making-code-contributions"
